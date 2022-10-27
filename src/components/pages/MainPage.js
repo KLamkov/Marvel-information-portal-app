@@ -17,7 +17,6 @@ const MainPage = () => {
         setChar(id);
     }
 
-
     return (
         <>
             <Helmet>
